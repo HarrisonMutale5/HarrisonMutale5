@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarrisonMutale5
 - 👀 I’m interested in web developememnt
-- 🌱 I’m currently learning Lusaka. Zambia
+- 🌱 I’m currently learning wed developement
 - 💞️ I’m looking to collaborate on big projects on github
 - 📫 How to reach me ...
 
